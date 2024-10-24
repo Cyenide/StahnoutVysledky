@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 960px;
+    margin: 20px auto;
+}
+
+form {
+    text-align: center;
+}
+
+#vysledky {
+    margin-top: 30px;
+}
+
+.vysledek {
+    margin-bottom: 10px;
+}
+
+.vysledek a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #1a0dab;
+}
+
+#tlacitko {
+    display:none;
+}
+
+button{
+    text-align: center;
+}
